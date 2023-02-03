@@ -164,20 +164,10 @@ a {
   padding: 8px 0;
 }
 
-.colgroup .distinct:first-child {
-  width: 15;
-}
-.colgroup .distinct:last-child {
-  width: 7;
-}
 .colgroup .small,
 .medium,
 .large {
   width: 10%;
-}
-
-.colgroup .xlarge {
-  width: 18;
 }
 
 /* second stable */

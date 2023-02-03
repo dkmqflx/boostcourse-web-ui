@@ -1,8 +1,8 @@
-- [edwith [부스트코스] 웹 UI 개발](https://www.edwith.org/boostcourse-ui/joinLectures/20901)의 강의를 수강하고 완료한 프로젝트입니다.
+- 네이버 커넥트재단에서 진행하는 [웹 UI 개발 코스](https://www.boostcourse.org/web344)의 강의를 수강하고 완료한 프로젝트입니다.
 
-- 모든 프로젝트는 디자인 가이드에 따라 작성하였고 코드 리뷰를 통과하였습니다.
+- HTML과 CSS를 사용해서 디자인 가이드를 구현하는 총 4개의 프로젝트를 완성했고 모든 프로젝트 과제는 현직자에게 유료코드 리뷰를 받고 통과하였습니다.
 
-- 프로젝트는 다음과 같은 사항을 고려하였습니다.
+- 모든 프로젝트는 공통적으로 아래 요구 사항을 준수하였습니다.
 
   - 시맨틱 마크업
 
@@ -15,6 +15,8 @@
   - CSS 코드 유효성 검사 ([https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/))
 
 ---
+
+### [Project A-1](https://github.com/dkmqflx/boostcourse-web-ui/tree/master/ProjectA-1)
 
 ### Project A-2
 
