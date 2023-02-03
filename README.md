@@ -16,16 +16,6 @@
 
 ---
 
-### Project A-1
-
-|            Project A-1            |
-| :-------------------------------: |
-| <img src="images/projectA-1.png"> |
-
-- [Design guide](https://drive.google.com/file/d/1c3cxAl70dJGMd6wOGkNRt4hzm8btS11p/view)
-
-- [평가 기준표](https://www.boostcourse.org/web344/project/42/content/35#evaluation)
-
 ### Project A-2
 
 |            Project A-2            |
