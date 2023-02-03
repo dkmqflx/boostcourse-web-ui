@@ -6,9 +6,15 @@
 
   - 시맨틱 마크업
 
+  - 웹 접근성
+
   - 크로스 브라우징
 
-    - E10 이상 / 크롬, 파이어폭스, 웨일 최신 버전
+    - Chrome / Firefox : ver. 109
+
+    - Whaile : 3.18
+
+    - IE10 이상
 
   - HTML 코드 유효성 검사 ([https://validator.w3.org/](https://validator.w3.org/))
 
@@ -16,37 +22,13 @@
 
 ---
 
-### [Project A-1](https://github.com/dkmqflx/boostcourse-web-ui/tree/master/ProjectA-1)
+- [Project A-1](https://github.com/dkmqflx/boostcourse-web-ui/tree/master/ProjectA-1)
 
-### Project A-2
+- [Project A-2](https://github.com/dkmqflx/boostcourse-web-ui/tree/master/ProjectA-2)
 
-|            Project A-2            |
-| :-------------------------------: |
-| <img src="images/projectA-2.png"> |
+- [Project B](https://github.com/dkmqflx/boostcourse-web-ui/tree/master/ProjectB)
 
-- [Design guide](https://drive.google.com/file/d/1z7_yU52ntXZ4ug5dFulIf43ydRlvHuWk/view)
-
-- [평가 기준표](https://www.boostcourse.org/web344/project/156/content/128#evaluation)
-
-### Project B
-
-|            Project B             |
-| :------------------------------: |
-| <img src="images/projectB.png" > |
-
-- [Design guide](https://drive.google.com/file/d/1BD6qPs7KGIZ5nO-8QKqG9GuTFRoKkBdp/view)
-
-- [평가 기준표](https://www.boostcourse.org/web344/project/157/content/129#evaluation)
-
-### Project C
-
-|           Project C - MAIN           |           Project C - VIEW           |
-| :----------------------------------: | :----------------------------------: |
-| <img src="images/projectC-main.png"> | <img src="images/projectC-view.png"> |
-
-- [Design guide](https://drive.google.com/file/d/1bBKCSkeG5T5zZdK8kOX7O0Qyhvrq2E1w/view)
-
-- [평가 기준표](https://www.boostcourse.org/web344/project/116/content/100#evaluation)
+- [Project C](https://github.com/dkmqflx/boostcourse-web-ui/tree/master/ProjectC)
 
 ---
 
